@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VargheseVibin
 - 👀 I’m interested in prorgramming
 - 🌱 I’m currently learning Go, C++, JS, and all things DevOps
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @vtresv on Twitter
 
 <!---
