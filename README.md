@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VargheseVibin
+## 👋 Hi, I’m **Vibin Varghese** `@VargheseVibin`
 - 👀 I’m interested in prorgramming
 - 🌱 I’m currently learning Go, C++, JS, and all things DevOps
 - 📫 How to reach me - @vtresv on Twitter
